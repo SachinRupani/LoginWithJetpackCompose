@@ -25,6 +25,14 @@ shows a clean way of handling login and registration state along with nested nav
 <img width="360" height="720" src="images/login_dark.png" alt="Image" >
 <img width="360" height="720" src="images/registration_dark.png" alt="Image" >
 
+## ❤ Show your support
+
+Give a ⭐️ if this project helped you!
+
+<a href="https://buymeacoffee.com/sachinrupani" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160">
+</a>
+
 ## License
 
 ```
